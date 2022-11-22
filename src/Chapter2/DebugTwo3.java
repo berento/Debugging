@@ -12,7 +12,7 @@
 //        Systemout.println(c);
 //    }
 //}
-public class DebugOne3{
+public class DebugTwo3{
 // Demonstrates remainder and output
 
     public static void main(String[] args) {
